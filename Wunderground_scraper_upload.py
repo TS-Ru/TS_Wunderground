@@ -6,6 +6,8 @@ Created on Wed Jan 01 11:25:38 2025
 @author: TSRue
 """
 
+# https://bojanstavrikj.github.io/content/page1/wunderground_scraper
+
 from bs4 import BeautifulSoup as BS
 from selenium import webdriver
 from functools import reduce
